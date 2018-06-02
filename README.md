@@ -12,9 +12,9 @@ sklearn
 seaborn
 
 # Accuracy
-60%
+At first my model had an accuracy of 60%, this is because I had not filtered my data.
+After filtering my data properly, I got an accuracy of 92.7%.
 
-The accuracy is a little bit low mainly because i did not clean my dataset properly.
 
 # Credits
 Stackoverflow
