@@ -14,7 +14,7 @@ seaborn
 # Accuracy
 60%
 
-The accuracy is a little bit low though.
+The accuracy is a little bit low mainly because i did not clean my dataset properly.
 
 # Credits
 Stackoverflow
